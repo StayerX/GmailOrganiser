@@ -61,7 +61,7 @@ function processTrash() {
 					label.addToThread(thrd);
 				}
 				if (i%2 == 0) color = "#f0f0f0"; else color = "#f9f9f9";
-				html += "<p>On " + date + ", <i>" + from + "</i> wrote: ";
+				html = "<p>On " + date + ", <i>" + from + "</i> wrote: ";
 				html += "<strong>" + subject + "</strong><br /><br />";
 				html += body  + " <a href='https://mail.google.com/mail/#all/";
 				html += link + "'>Click to read »</a></p>";    
