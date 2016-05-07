@@ -19,7 +19,7 @@ var createSumarry = true; // Create and email a summary of the processed emails 
 Furthermore since it is open source you can modify it in any way you desire, but make sure what you are doing since it could mess up your email.
 
 ## Installation
-* Copy the script file to [https://script.google.com/intro](https://script.google.com/intro). 
+* Copy the [script](https://github.com/StayerX/GmailOrganiser/blob/master/organiser.gs) file to [https://script.google.com/intro](https://script.google.com/intro). 
 * Rename the script ![Script Rename](https://cdn.rawgit.com/StayerX/GmailOrganiser/master/visual/rename_script.png).
 * Select `Install` and  then `run` ![Script Install](https://cdn.rawgit.com/StayerX/GmailOrganiser/master/visual/install_script.png).
 
